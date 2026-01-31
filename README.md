@@ -1,7 +1,3 @@
-No problem 🙂 Here’s a **completely reworked version** with **new wording, simpler language, and a fresh structure**, while keeping the idea clear and beginner-friendly. You can safely use this as your updated README.
-
----
-
 # Phishing URL Detector
 
 ## Project Overview
@@ -61,5 +57,3 @@ python url_checker.py
 * Add machine learning for smarter detection
 * Improve typo and fake domain recognition
 * Build a browser extension for real-time checking
-
-I can adjust it instantly 👍
